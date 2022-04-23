@@ -12,6 +12,6 @@ spec:
         - containerPort: 80
       
 
-      env:
-        - name: "HOST_DB"
-          value:
+      envFrom:
+        - configMapRef:
+            name: sistema-configmap
