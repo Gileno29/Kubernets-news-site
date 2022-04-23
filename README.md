@@ -6,7 +6,7 @@
 
 ************
 
-<h3>Requisitos:</h3>
+<h3>Requirements:</h3>
 
 
 <ul>
