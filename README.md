@@ -10,7 +10,7 @@
 
 
 <ul>
-  <li>Sistema operacional Linux. Para esse exemplo está sendo usado o SO Ubuntu 20.4 LTS</a></li>
+  <li>Linux operating system. For this example is being used the Ubuntu 20.4 LTS</a></li>
   <li>Vitualbox</li>
-  <li>Deve possuir o <a href="https://docs.docker.com/engine/install/centos/">Docker</a> instalado</li> 
+  <li>Must have <a href="https://docs.docker.com/engine/install/centos/">Docker</a> installed</li> 
 </ul>
