@@ -44,4 +44,14 @@ it is interesting to know some basic concepts to understand how the project exam
  
  ![image](https://user-images.githubusercontent.com/38367700/164945484-f2219688-d5c4-46d6-99cd-ce08a3f3e5e2.png)
 
-
+Now apply the manifests:
+    
+          
+    
+      kubectl apply -f site_noticias/porta-noticias.yaml
+      kubectl apply -f site_noticias/site-noticias.yaml
+      kubectl apply -f site_noticias/db/db-noticias.yaml
+      kubectl apply -f site_noticias/configMap/db-configmap.yaml
+      kubectl apply -f site_noticias/configMap/portal-configmap.yaml
+      kubectl apply -f site_noticias/configMap/sistema-configmap.yaml
+    
