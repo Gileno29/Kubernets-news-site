@@ -27,8 +27,8 @@ it is interesting to know some basic concepts to understand how the project exam
 
 ************
 <h3> configurando projeto<h3>
-
-  instale o minikube:
+  
+  <h2>instale o minikube:<h2>
   
         curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
   
