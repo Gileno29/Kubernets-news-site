@@ -57,4 +57,10 @@ Now apply the manifests:
     
 
 see what ip of your node and access the services on ports 30000 and 300001
+
+      kubectl get nodes -o wide
+   
+    
+![image](https://user-images.githubusercontent.com/38367700/164945752-7d7cf83f-7003-48f5-a8e7-84b152ada7c1.png)
+
     
