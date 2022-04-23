@@ -23,3 +23,12 @@ it is interesting to know some basic concepts to understand how the project exam
 <h4>configmap:</h4> componete responsible for mapping environment variavies between different kubernetes services
 <h4> nodes:</h4> Collection of resources to support u or more pods
 <h4> SVC or services:</h4> are used to expose pod ports to achieve internal communication etre the services or external as well
+
+
+************
+<h3> configurando projeto<h3>
+
+  instale o minikube:
+        curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+  
+        sudo install minikube-linux-amd64 /usr/local/bin/minikube
