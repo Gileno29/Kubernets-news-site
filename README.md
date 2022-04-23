@@ -74,3 +74,8 @@ see what ip of your node and access the services on ports 30000 and 300001
     
 ![image](https://user-images.githubusercontent.com/38367700/164945848-1cb0166d-0067-4397-a739-e7ecf3551018.png)
 
+
+    
+ <h1>Kubernetes documentation</h1>
+  
+ https://kubernetes.io/pt-br/docs/home/
