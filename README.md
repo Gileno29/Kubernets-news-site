@@ -41,6 +41,7 @@ it is interesting to know some basic concepts to understand how the project exam
         
         kubectl get nodes
     
-    ![image](https://user-images.githubusercontent.com/38367700/164945484-f2219688-d5c4-46d6-99cd-ce08a3f3e5e2.png)
+ 
+ ![image](https://user-images.githubusercontent.com/38367700/164945484-f2219688-d5c4-46d6-99cd-ce08a3f3e5e2.png)
 
 
