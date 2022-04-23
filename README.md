@@ -67,8 +67,8 @@ see what ip of your node and access the services on ports 30000 and 300001
 *************************
 ![image](https://user-images.githubusercontent.com/38367700/164945811-fe3b9a1d-7a81-442b-b788-56fcfb08882a.png)
 
-login: admin
-password:admin
+<span>login: admin</span>
+<span>password:admin</span>
 
 *************************
     
