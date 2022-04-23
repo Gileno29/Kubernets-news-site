@@ -38,5 +38,6 @@ it is interesting to know some basic concepts to understand how the project exam
         minikube start –vm-driver=virtualbox
     
  if you use the kubectl get node will already see the kubernets cluster up and running
-    ![image](https://user-images.githubusercontent.com/38367700/164945452-0714c5d0-900e-4aff-ae3b-b39512e0cf3f.png)
+    ![image](https://user-images.githubusercontent.com/38367700/164945484-f2219688-d5c4-46d6-99cd-ce08a3f3e5e2.png)
+
 
