@@ -34,3 +34,5 @@ it is interesting to know some basic concepts to understand how the project exam
   
         sudo install minikube-linux-amd64 /usr/local/bin/minikube
   <h5>start minikube:<h5>
+        
+        minikube start –vm-driver=virtualbox
