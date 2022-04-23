@@ -12,10 +12,3 @@ spec:
       ports:
         - containerPort: 3306
       
-      env:
-        - name: 'MYSQL_ROOT_PASSWORD'
-          value: '123@mudar'
-        - name: 'MYSQL_DATABASE'
-          value: 'empresa'
-        - name: "MYSQL_PASSWORD"
-          value: "123@mudar"
