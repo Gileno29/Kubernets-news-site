@@ -26,10 +26,11 @@ it is interesting to know some basic concepts to understand how the project exam
 
 
 ************
-<h3> configurando projeto<h3>
+<h3>config project<h3>
   
   <h5>instale o minikube:<h5>
   
         curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
   
         sudo install minikube-linux-amd64 /usr/local/bin/minikube
+  <h5>start minikube:<h5>
