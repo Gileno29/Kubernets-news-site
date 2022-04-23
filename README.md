@@ -29,6 +29,7 @@ it is interesting to know some basic concepts to understand how the project exam
 <h3> configurando projeto<h3>
 
   instale o minikube:
+  
         curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
   
         sudo install minikube-linux-amd64 /usr/local/bin/minikube
