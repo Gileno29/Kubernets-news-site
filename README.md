@@ -55,3 +55,6 @@ Now apply the manifests:
       kubectl apply -f site_noticias/configMap/portal-configmap.yaml
       kubectl apply -f site_noticias/configMap/sistema-configmap.yaml
     
+
+see what ip of your node and access the services on ports 30000 and 300001
+    
