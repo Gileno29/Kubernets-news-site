@@ -16,4 +16,10 @@
 </ul>
 
 *****************
-<h3> basic concepts</h3>
+<h3> Basic Concepts</h3>
+
+it is interesting to know some basic concepts to understand how the project examples work, such as:
+<h4>pod</h4>: element that will own the containers that are running in the application
+configmap: componete responsible for mapping environment variavies between different kubernetes services
+nodes: Collection of resources to support u or more pods
+sVC or services: are used to expose pod ports to achieve internal communication etre the services or external as well
