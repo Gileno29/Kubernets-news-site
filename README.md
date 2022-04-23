@@ -36,3 +36,7 @@ it is interesting to know some basic concepts to understand how the project exam
   <h5>start minikube:<h5>
         
         minikube start –vm-driver=virtualbox
+    
+ if you use the kubectl get node will already see the kubernets cluster up and running
+    ![image](https://user-images.githubusercontent.com/38367700/164945452-0714c5d0-900e-4aff-ae3b-b39512e0cf3f.png)
+
