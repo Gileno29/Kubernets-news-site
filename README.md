@@ -22,7 +22,7 @@ it is interesting to know some basic concepts to understand how the project exam
 <h4>pod:</h4> element that will own the containers that are running in the application
 <h4>configmap:</h4> element responsible for mapping environment variavies between different kubernetes services
 <h4> nodes:</h4> collection of resources to support u or more pods
-<h4> SVC or services:</h4> are used to expose pod ports to achieve internal communication etre the services or external as well
+<h4> SVC or services:</h4> are used to expose pod ports to achieve internal communication betwen the services or external as well
 
 
 ************
