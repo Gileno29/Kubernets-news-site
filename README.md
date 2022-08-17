@@ -20,8 +20,8 @@
 
 it is interesting to know some basic concepts to understand how the project examples work, such as:
 <h4>pod:</h4> element that will own the containers that are running in the application
-<h4>configmap:</h4> componete responsible for mapping environment variavies between different kubernetes services
-<h4> nodes:</h4> Collection of resources to support u or more pods
+<h4>configmap:</h4> element responsible for mapping environment variavies between different kubernetes services
+<h4> nodes:</h4> collection of resources to support u or more pods
 <h4> SVC or services:</h4> are used to expose pod ports to achieve internal communication etre the services or external as well
 
 
